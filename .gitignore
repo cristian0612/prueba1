@@ -1,0 +1,6 @@
+#ficheros fuentes de photoshop
+*.xsd
+
+#carpetas a ignorar
+./top_secret/
+./docs/
