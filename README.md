@@ -1,6 +1,8 @@
 # prueba1
 segundo repositorio de prueba
 
+modificacion desde sacarino.
+
 1. crear el repositorio remoto
 2. clonar el repo en local
 3. crear estructura
